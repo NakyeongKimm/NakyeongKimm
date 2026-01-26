@@ -13,17 +13,14 @@
 
 <h1 align="center">Welcome to my digital garden! 🪴</h1>
 
-<h3 align="left">👩‍💻 About Me</h3>
+### 👩‍💻 About Me
+- 🎓 Currently pursuing a **Master’s degree at Boston University**.
+- 📱 Previously at **Samsung Electronics** as a **UX Manager** for Galaxy native applications.
+- 🎥 Former **Product Manager** at an **AI startup**, leading projects for AI video editors and mobile scanners.
+- 🧁 In my free time, I’m either **baking** or playing **Switch 2**! 🎮
+- 💡 **Fun Fact:** I once owned **8+ smartphones** at once and spent 30 mins every morning finding the right one! 🔍
 
-<p align="left">Hi, I'm Nakyeong! 👋<br><br>
-🎓 Currently pursuing a **Master’s degree at Boston University**. <br>
-📱 Previously at **Samsung Electronics** as a **UX Manager** for Galaxy native applications. <br>
-🎥 Former **Product Manager** at an **AI startup**, leading projects for AI video editors and mobile scanners. <br>
-🧁 In my free time, I’m either **baking** or playing **Switch 2**! 🎮<br>
-💡 **Fun Fact:** I once owned **8+ smartphones** at once and spent 30 mins every morning finding the right one! 🔍</p>
-
-<h3 align="left">🛠 Language and tools</h3>
-
+### 🛠 Language and tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
@@ -36,8 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="40" alt="sketch logo" />
 </div>
 
-<h3 align="left">🔥 My Stats :</h3>
-
+### 🔥 My Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NakyeongKimm&theme=radical" alt="Nakyeong's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NakyeongKimm&show_icons=true&theme=radical" alt="Nakyeong's github stats" />
 </div>

@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<h1 align="center">Welcome to my world of code and cookies🍪</h1>
+<h1 align="center">Welcome to my world of code and cookies 🍪</h1>
 
 ### 👩‍💻 About Me
 - 🎓 Currently pursuing a **Master’s degree at Boston University**.
@@ -32,8 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
 
-### 🔥 Recent Activity & Impact
+### 🔥 Recent Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NakyeongKimm&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=fe428e&icon_color=fe428e" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NakyeongKimm&theme=react-dark&area=true&hide_border=true&bg_color=0d1117" width="50%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NakyeongKimm&theme=react-dark&area=true&hide_border=true&bg_color=0d1117" width="100%" />
 </div>

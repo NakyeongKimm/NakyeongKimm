@@ -15,7 +15,7 @@
 
 ### 👩‍💻 About Me
 - 🎓 Currently pursuing a **Master’s degree at Boston University**.
-  - 🔍 Also working as a **Graduate Assistant for the MSDS program** and a **Course Facilitator for DS593: Theory and Applications of Large Language Models**.
+  - 🔍 Also working as a **Graduate Assistant for MSDS program** and a **Course Facilitator for DS593: Theory and Applications of Large Language Models**.
 - 📱 Previously at **Samsung Electronics** as a **UX Manager** for Galaxy native applications.
 - 🎥 Former **Product Manager** at an **AI startup**, leading projects for AI video editors and mobile scanners.
 - 🧁 In my free time, I’m either **baking** or playing **Switch 2**! 🎮

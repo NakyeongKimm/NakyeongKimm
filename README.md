@@ -16,11 +16,11 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">Hi, I'm Nakyeong! 👋<br><br>
-🎓 Currently pursuing a Master’s degree at Boston University.<br>
-📱 Previously at Samsung Electronics as a UX Manager for Galaxy native applications.<br>
-🎥 Former Product Manager at an AI startup, where I led projects for an AI-powered video editor and mobile scanner.<br>
-🧁 In my free time, I’m either baking or playing Switch 2! 🎮<br><br>
-💡 <b>Fun Fact:</b> I once owned over 8 smartphones at the same time—and spent 30 minutes every morning just trying to find the right one! 🔍</p>
+🎓 Currently pursuing a **Master’s degree at Boston University**. <br>
+📱 Previously at **Samsung Electronics** as a **UX Manager** for Galaxy native applications. <br>
+🎥 Former **Product Manager** at an **AI startup**, leading projects for AI video editors and mobile scanners. <br>
+🧁 In my free time, I’m either **baking** or playing **Switch 2**! 🎮<br>
+💡 **Fun Fact:** I once owned **8+ smartphones** at once and spent 30 mins every morning finding the right one! 🔍</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -39,5 +39,5 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NakyeongKimm&theme=dark" height="200" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NakyeongKimm&theme=radical" alt="Nakyeong's github stats" />
 </div>

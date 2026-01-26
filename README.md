@@ -15,7 +15,7 @@
 
 ### 👩‍💻 About Me
 - 🎓 Currently pursuing a **Master’s degree at Boston University**.
-  - Working as a **Graduate Assistant for the MSDS program** and a **Course Facilitator for DS593: Theory and Applications of Large Language Models**.
+  - 🔍 Also working as a **Graduate Assistant for the MSDS program** and a **Course Facilitator for DS593: Theory and Applications of Large Language Models**.
 - 📱 Previously at **Samsung Electronics** as a **UX Manager** for Galaxy native applications.
 - 🎥 Former **Product Manager** at an **AI startup**, leading projects for AI video editors and mobile scanners.
 - 🧁 In my free time, I’m either **baking** or playing **Switch 2**! 🎮
@@ -26,18 +26,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
 
-### 🔥 Recent Contributions & Impact
+### 🔥 Impact & Review Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NakyeongKimm&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Nakyeong's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NakyeongKimm&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Nakyeong's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NakyeongKimm&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 <div align="center">
-  <p><b>Weekly Activity Graph</b></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NakyeongKimm&theme=react-dark&bg_color=0d1117" width="100%" />
+  <p><b>Weekly Impact Graph (Including Reviews & Merges)</b></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NakyeongKimm&theme=react-dark&area=true" width="100%" />
 </div>

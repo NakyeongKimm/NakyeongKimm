@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<h1 align="center">Welcome to my digital garden! 🪴</h1>
+<h1 align="center">Welcome to my world of code and cookies🍪</h1>
 
 ### 👩‍💻 About Me
 - 🎓 Currently pursuing a **Master’s degree at Boston University**.

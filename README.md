@@ -32,13 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
 
-### 🔥 Impact & Review Activity
+### 🔥 Recent Activity & Impact
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NakyeongKimm&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Nakyeong's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NakyeongKimm&layout=compact&theme=radical" alt="Top Langs" />
-</div>
-
-<div align="center">
-  <p><b>Weekly Impact Graph (Including Reviews & Merges)</b></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NakyeongKimm&theme=react-dark&area=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NakyeongKimm&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=fe428e&icon_color=fe428e" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NakyeongKimm&theme=react-dark&area=true&hide_border=true&bg_color=0d1117" width="50%" />
 </div>

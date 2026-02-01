@@ -14,10 +14,10 @@
 <h1 align="center">Welcome to my world of code and cookies 🍪</h1>
 
 ### 👩‍💻 About Me
-- 🎓 Currently pursuing a **Master’s degree at Boston University**.
+- 🎓 Currently pursuing a **Master’s in Data Scienc at Boston University**.
   - 🔍 Also working as a **Graduate Assistant for MSDS program** and a **Course Facilitator for DS593: Theory and Applications of Large Language Models**.
-- 📱 Previously at **Samsung Electronics** as a **UX Manager** for Galaxy native applications.
-- 🎥 Former **Product Manager** at an **AI startup**, leading projects for AI video editors and mobile scanners.
+- 🎓 Holds **Bachelor of Science in Computational Sciences** and **Bachler of Arts in Religious Studies at Seoul National University**
+- 📱 Previously at **Samsung Electronics** as a **UX Manager** for Galaxy native applications and at **VoyagerX** as a **Product Manager** for AI video editors and mobile scanners.
 - 🧁 In my free time, I’m either **baking** or playing **Switch 2**! 🎮
 - 💡 **Fun Fact:** I once owned **8+ smartphones** at once and spent 30 mins every morning finding the right one! 🔍
 

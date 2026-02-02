@@ -15,7 +15,7 @@
 
 ### 👩‍💻 About Me
 - 🎓 Currently pursuing a **Master’s in Data Scienc at Boston University**.
-  - 🔍 Also working as a **Graduate Assistant for MSDS program** and a **Course Facilitator for DS593: Theory and Applications of Large Language Models**.
+  - 👩‍💻 Also working as a **Graduate Assistant for MSDS program** and a **Course Facilitator for DS593: Theory and Applications of Large Language Models**.
 - 🎓 Holds **Bachelor of Science in Computational Sciences** and **Bachler of Arts in Religious Studies at Seoul National University**
 - 📱 Previously at **Samsung Electronics** as a **UX Manager** for Galaxy native applications and at **VoyagerX** as a **Product Manager** for AI video editors and mobile scanners.
 - 🧁 In my free time, I’m either **baking** or playing **Switch 2**! 🎮

@@ -32,7 +32,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
 
-### 🔥 Recent Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NakyeongKimm&theme=react-dark&area=true&hide_border=true&bg_color=0d1117" width="100%" />
-</div>
